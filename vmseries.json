@@ -113,13 +113,6 @@
         "description": "Trust subnet CIDR"
       }
     },
-    "subnetLBPrefix": {
-      "type": "string",
-      "defaultValue": "192.168.3.0/24",
-      "metadata": {
-        "description": "App Gateway subnet CIDR"
-      }
-    },
     "adminUsername": {
       "type": "string",
       "metadata": {
